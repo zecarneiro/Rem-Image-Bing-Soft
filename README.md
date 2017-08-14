@@ -4,4 +4,5 @@ Script criado para remover imagens antigas do soft que introduz as imagens do bi
 como wallpaper
 
 Instalação: chmod +x install.sh && ./install.sh
+
 Remoção: rm ~/.config/autostart/Remove_Img_Bing.desktop sudo rm -r /opt/Remove_img_Bing
