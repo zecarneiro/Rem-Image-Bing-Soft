@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/Remove_img_Bing/remove_img_bing.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[pt]=Remove as Imagens da aplicação BingWallpaper
+Name=Remove as Imagens da aplicação BingWallpaper
+Comment[pt]=
+Comment=
